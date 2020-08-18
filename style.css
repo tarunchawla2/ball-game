@@ -1,0 +1,13 @@
+#train {
+    position: relative;
+    cursor: pointer;
+}
+
+.circle {
+    background: #f00;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    float: left;
+    margin-left: 10px;
+}
